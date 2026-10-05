@@ -1,0 +1,4 @@
+qrcode.js  - "QR Code Generator for JavaScript" v2.0.4, (c) 2009 Kazuhiko Arase. MIT license.
+             https://github.com/kazuhikoarase/qrcode-generator
+jsQR.js    - jsQR v1.4.0, (c) Cosmo Wolfe. Apache License 2.0.
+             https://github.com/cozmo/jsQR
